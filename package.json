@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/alianasimoes/portifolio/issues"
   },
-  "homepage": "https://github.com/alianasimoes/portifolio#readme"
+  "homepage": "https://github.com/alianasimoes/portifolio#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
