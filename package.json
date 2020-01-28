@@ -1,0 +1,22 @@
+{
+  "name": "portifolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alianasimoes/portifolio.git"
+  },
+  "keywords": [
+    "Ali21@na"
+  ],
+  "author": "aliana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alianasimoes/portifolio/issues"
+  },
+  "homepage": "https://github.com/alianasimoes/portifolio#readme"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "portifolio",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "aliana"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Ali21@na"
+  ],
+  "homepage": "https://github.com/alianasimoes/portifolio",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
