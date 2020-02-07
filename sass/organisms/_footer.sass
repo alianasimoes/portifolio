@@ -1,0 +1,42 @@
+footer
+    min-height: 350px
+    border-top: 1px $verde solid
+
+.itemscontato 
+    display: flex
+    flex-direction: row
+    border: 1px $verde solid
+    justify-content: space-between
+
+    +breakpoint($tablet)
+        flex-direction: column
+
+
+.rodape
+    display: flex
+    margin-left: 160px
+    max-width: 300px
+    flex-direction: column
+    border: 1px $verde-claro solid
+   
+
+    .contato, .email
+        color: $verde
+        display: block
+        display: inline-block
+
+.social
+    display: flex
+    flex-direction: row
+    justifify-content: flex-end
+    width: 300px
+    border: 1px $verde-claro solid
+    margin-right: 150px
+    
+    li
+        display: inline-block
+        margin: 10px 20px 0 0
+        a
+            color: $verde
+            text-transform: uppercase
+           

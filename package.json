@@ -19,8 +19,13 @@
     "url": "https://github.com/alianasimoes/portifolio/issues"
   },
   "homepage": "https://github.com/alianasimoes/portifolio#readme",
-  "dependencies": {},
+  "dependencies": {
+    "sass-flexbox": "^2.0.0"
+  },
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-ruby-sass": "^4.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-watch": "^5.0.1"
   }
 }
